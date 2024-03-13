@@ -1,0 +1,133 @@
+{
+	"name": "nwtsty_E.jwpub",
+	"hash": "fefd05f5b8d18499c58dc8f9869976dab5312294cfdc202e3c309bbfe0e6e8a0",
+	"timestamp": "2023-11-07T14:21:10Z",
+	"version": 1,
+	"expandedSize": 146783715,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12561,
+	"publication": { 
+		"fileName": "nwtsty_E.db",
+		"type": 5,
+		"title": "New World Translation of the Holy Scriptures (Study Edition)",
+		"shortTitle": "Study Bible",
+		"displayTitle": "New World Translation (Study Edition)  (nwtsty)",
+		"referenceTitle": "Study Bible",
+		"undatedReferenceTitle": "Study Bible",
+		"titleRich": "New World Translation of the Holy Scriptures (Study Edition)",
+		"displayTitleRich": "New World Translation (Study Edition)  (nwtsty)",
+		"referenceTitleRich": "Study Bible",
+		"undatedReferenceTitleRich": "Study Bible",
+		"symbol": "nwtsty",
+		"uniqueEnglishSymbol": "nwtsty",
+		"uniqueSymbol": "nwtsty",
+		"undatedSymbol": "nwtsty",
+		"englishSymbol": "nwtsty",
+		"language": 0,
+		"hash": "ea6ed81ffbe9a4f8633eddec8e84de05205b4cfc",
+		"timestamp": "2023-11-07T14:21:10Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 9,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "nwtsty",
+		"rootYear": 2015,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "4d96ea6e622d9edc35a3c164ad68ee8849d7c56b:120:120",
+				"fileName": "1001070000_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "4d96ea6e622d9edc35a3c164ad68ee8849d7c56b:270:270",
+				"fileName": "1001070000_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "4d96ea6e622d9edc35a3c164ad68ee8849d7c56b:600:600",
+				"fileName": "1001070000_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "01e3cfc1e286881edd36c2f313db9be3538d4678:360:120",
+				"fileName": "1001070000_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "01e3cfc1e286881edd36c2f313db9be3538d4678:810:270",
+				"fileName": "1001070000_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "01e3cfc1e286881edd36c2f313db9be3538d4678:1800:600",
+				"fileName": "1001070000_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			},
+			{
+				"signature": "bd0ac70f09fe8cddd8d2f6f88e723a68d4e88098:240:120",
+				"fileName": "1001070000_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "bd0ac70f09fe8cddd8d2f6f88e723a68d4e88098:560:280",
+				"fileName": "1001070000_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "bd0ac70f09fe8cddd8d2f6f88e723a68d4e88098:1200:600",
+				"fileName": "1001070000_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
