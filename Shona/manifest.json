@@ -1,0 +1,141 @@
+{
+	"name": "nwt_CA.jwpub",
+	"hash": "79e56f5606a1e067699c9c22d12727110eccfa88f8623d209aa0f56aed225ed1",
+	"timestamp": "2023-12-19T13:26:33Z",
+	"version": 1,
+	"expandedSize": 58091433,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12653,
+	"publication": { 
+		"fileName": "nwt_CA.db",
+		"type": 5,
+		"title": "Bhaibheri—Shanduro yeNyika Itsva",
+		"shortTitle": "Shanduro yeNyika Itsva (2019)",
+		"displayTitle": "Shanduro yeNyika Itsva (nwt)",
+		"referenceTitle": "Shanduro yeNyika Itsva (2019)",
+		"undatedReferenceTitle": "Shanduro yeNyika Itsva (2019)",
+		"titleRich": "Bhaibheri—Shanduro yeNyika Itsva",
+		"displayTitleRich": "Shanduro yeNyika Itsva (nwt)",
+		"referenceTitleRich": "Shanduro yeNyika Itsva (2019)",
+		"undatedReferenceTitleRich": "Shanduro yeNyika Itsva (2019)",
+		"symbol": "nwt",
+		"uniqueEnglishSymbol": "nwt",
+		"uniqueSymbol": "nwt",
+		"undatedSymbol": "nwt",
+		"englishSymbol": "nwt",
+		"language": 218,
+		"hash": "bab86ace9cafd7bd07115cf1d89a30d43caa7760",
+		"timestamp": "2023-12-19T13:26:33Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2019,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "nwt",
+		"rootYear": 2013,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "d45875b0bbd1f804e25cfb22c13d9185241be17b:1200:1733",
+				"fileName": "1001061100_CA_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 1200,
+				"height": 1733
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:120:120",
+				"fileName": "1001061103_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:270:270",
+				"fileName": "1001061103_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:600:600",
+				"fileName": "1001061103_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:360:120",
+				"fileName": "1001061100_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:810:270",
+				"fileName": "1001061100_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:1800:600",
+				"fileName": "1001061100_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:240:120",
+				"fileName": "1001061100_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:560:280",
+				"fileName": "1001061100_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:1200:600",
+				"fileName": "1001061100_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

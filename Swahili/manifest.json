@@ -1,0 +1,93 @@
+{
+	"name": "nwt_SW.jwpub",
+	"hash": "47b3ef8574ee15899ec197a79b8b9aa3a3aaa250822d23a136600e721f252761",
+	"timestamp": "2024-04-25T14:59:50Z",
+	"version": 1,
+	"expandedSize": 48739940,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12957,
+	"publication": { 
+		"fileName": "nwt_SW.db",
+		"type": 5,
+		"title": "Biblia Takatifu—Tafsiri ya Ulimwengu Mpya",
+		"shortTitle": "Tafsiri ya Ulimwengu Mpya",
+		"displayTitle": "Tafsiri ya Ulimwengu Mpya  (nwt)",
+		"referenceTitle": "Tafsiri ya Ulimwengu Mpya",
+		"undatedReferenceTitle": "Tafsiri ya Ulimwengu Mpya",
+		"titleRich": "Biblia Takatifu—Tafsiri ya Ulimwengu Mpya",
+		"displayTitleRich": "Tafsiri ya Ulimwengu Mpya  (nwt)",
+		"referenceTitleRich": "Tafsiri ya Ulimwengu Mpya",
+		"undatedReferenceTitleRich": "Tafsiri ya Ulimwengu Mpya",
+		"symbol": "nwt",
+		"uniqueEnglishSymbol": "nwt",
+		"uniqueSymbol": "nwt",
+		"undatedSymbol": "nwt",
+		"englishSymbol": "nwt",
+		"language": 228,
+		"hash": "4359c84f2aa036e4887e77473f7febdb96aca2db",
+		"timestamp": "2024-04-25T14:59:50Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2023,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "nwt",
+		"rootYear": 2013,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "710842f45e36ae7dd065dba16f8178c61b32539c:900:1300",
+				"fileName": "1001061100_SW_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 900,
+				"height": 1300
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:120:120",
+				"fileName": "1001061103_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:270:270",
+				"fileName": "1001061103_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:600:600",
+				"fileName": "1001061103_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

@@ -1,0 +1,86 @@
+{
+	"name": "bi7_KB.jwpub",
+	"hash": "6a0efd2c208de6cc3c7e9a7e4fd0784e48165e3e1f91bedd278861efc0e7265a",
+	"timestamp": "2019-03-07T08:21:52Z",
+	"version": 1,
+	"expandedSize": 7578046,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 8555,
+	"publication": { 
+		"fileName": "bi7_KB.db",
+		"type": 5,
+		"title": "Ũalyũlo wa Nthĩ Nzaũ wa Maandĩko ma Kĩkiliki ma Kĩklĩsto",
+		"shortTitle": "Maandĩko ma Kĩkiliki ma Kĩklĩsto",
+		"displayTitle": "Maandĩko ma Kĩkiliki ma Kĩklĩsto (bi7)",
+		"referenceTitle": "Maandĩko ma Kĩkiliki ma Kĩklĩsto",
+		"undatedReferenceTitle": "Maandĩko ma Kĩkiliki ma Kĩklĩsto",
+		"symbol": "bi7",
+		"uniqueEnglishSymbol": "bi7",
+		"uniqueSymbol": "bi7",
+		"undatedSymbol": "bi7",
+		"englishSymbol": "bi7",
+		"language": 115,
+		"hash": "42e5376f5718d99cb07957cb262d6dd1fad6602b",
+		"timestamp": "2019-03-07T08:21:52Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2018,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "bi7",
+		"rootYear": 2013,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "2a66cc5e76786669d954204e952348e317ae6da4:600:837",
+				"fileName": "1001061663_KB_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 600,
+				"height": 837
+			},
+			{
+				"signature": "262cb8a31060e1ade1b50af18199983d10bb767f:120:120",
+				"fileName": "1001061663_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "262cb8a31060e1ade1b50af18199983d10bb767f:270:270",
+				"fileName": "1001061663_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "262cb8a31060e1ade1b50af18199983d10bb767f:600:600",
+				"fileName": "1001061663_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

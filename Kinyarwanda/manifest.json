@@ -1,0 +1,93 @@
+{
+	"name": "bi12_YW.jwpub",
+	"hash": "9e35c8860f9f036daee793deb1467338819e4aaeaec41da4df17f4a1c898d37e",
+	"timestamp": "2020-07-27T13:59:08Z",
+	"version": 1,
+	"expandedSize": 34638273,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 9451,
+	"publication": { 
+		"fileName": "bi12_YW.db",
+		"type": 5,
+		"title": "Bibiliya—Ubuhinduzi bw’isi nshya",
+		"shortTitle": "Ubuhinduzi bw’isi nshya",
+		"displayTitle": "Ubuhinduzi bw’isi nshya (bi12)",
+		"referenceTitle": "Ubuhinduzi bw’isi nshya",
+		"undatedReferenceTitle": "Ubuhinduzi bw’isi nshya",
+		"titleRich": "Bibiliya—Ubuhinduzi bw’isi nshya",
+		"displayTitleRich": "Ubuhinduzi bw’isi nshya (bi12)",
+		"referenceTitleRich": "Ubuhinduzi bw’isi nshya",
+		"undatedReferenceTitleRich": "Ubuhinduzi bw’isi nshya",
+		"symbol": "bi12",
+		"uniqueEnglishSymbol": "bi12",
+		"uniqueSymbol": "bi12",
+		"undatedSymbol": "bi12",
+		"englishSymbol": "bi12",
+		"language": 121,
+		"hash": "64e1332c0735a50383a0cc219bc7aec50cfa5140",
+		"timestamp": "2020-07-27T13:59:08Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2010,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "bi12",
+		"rootYear": 1984,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "21fde6ecb465215ca1062311575898548246b652:600:895",
+				"fileName": "1001060547_YW_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 600,
+				"height": 895
+			},
+			{
+				"signature": "262cb8a31060e1ade1b50af18199983d10bb767f:120:120",
+				"fileName": "1001060547_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "262cb8a31060e1ade1b50af18199983d10bb767f:270:270",
+				"fileName": "1001060547_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "262cb8a31060e1ade1b50af18199983d10bb767f:600:600",
+				"fileName": "1001060547_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
