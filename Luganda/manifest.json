@@ -1,0 +1,141 @@
+{
+	"name": "nwt_LU.jwpub",
+	"hash": "2d971cdbf4ef58396c74fe4f613a402c243b2abaea9ad3d9eaa0384db9b1b4d6",
+	"timestamp": "2024-03-08T12:22:22Z",
+	"version": 1,
+	"expandedSize": 53517090,
+	"contentFormat": "z-a",
+	"htmlValidated": true,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12852,
+	"publication": { 
+		"fileName": "nwt_LU.db",
+		"type": 5,
+		"title": "Bayibuli Enkyusa ey’Ensi Empya",
+		"shortTitle": "Enkyusa ey’Ensi Empya",
+		"displayTitle": "Enkyusa ey’Ensi Empya (nwt)",
+		"referenceTitle": "Enkyusa ey’Ensi Empya",
+		"undatedReferenceTitle": "Enkyusa ey’Ensi Empya",
+		"titleRich": "Bayibuli Enkyusa ey’Ensi Empya",
+		"displayTitleRich": "Enkyusa ey’Ensi Empya (nwt)",
+		"referenceTitleRich": "Enkyusa ey’Ensi Empya",
+		"undatedReferenceTitleRich": "Enkyusa ey’Ensi Empya",
+		"symbol": "nwt",
+		"uniqueEnglishSymbol": "nwt",
+		"uniqueSymbol": "nwt",
+		"undatedSymbol": "nwt",
+		"englishSymbol": "nwt",
+		"language": 144,
+		"hash": "9e2dbeb27113b4749e936c3f636a6c2b6b6264f2",
+		"timestamp": "2024-03-08T12:22:22Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2015,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "nwt",
+		"rootYear": 2015,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "655562c1e39e377e52b89cad22550cafc980de39:900:1300",
+				"fileName": "1001061100_LU_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 900,
+				"height": 1300
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:120:120",
+				"fileName": "1001061103_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:270:270",
+				"fileName": "1001061103_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:600:600",
+				"fileName": "1001061103_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:360:120",
+				"fileName": "1001061100_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:810:270",
+				"fileName": "1001061100_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:1800:600",
+				"fileName": "1001061100_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:240:120",
+				"fileName": "1001061100_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:560:280",
+				"fileName": "1001061100_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:1200:600",
+				"fileName": "1001061100_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}

@@ -1,0 +1,141 @@
+{
+	"name": "nwt_ZU.jwpub",
+	"hash": "52b9d92dd0d011bc6d67636d9aa7f0b7ad74f6a2b0a489034205255b47037d02",
+	"timestamp": "2024-04-01T12:12:29Z",
+	"version": 1,
+	"expandedSize": 60391026,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 12852,
+	"publication": { 
+		"fileName": "nwt_ZU.db",
+		"type": 5,
+		"title": "IBhayibheli ImiBhalo Engcwele",
+		"shortTitle": "IBhayibheli ImiBhalo Engcwele",
+		"displayTitle": "IBhayibheli ImiBhalo Engcwele  (nwt)",
+		"referenceTitle": "IBhayibheli ImiBhalo Engcwele",
+		"undatedReferenceTitle": "IBhayibheli ImiBhalo Engcwele",
+		"titleRich": "IBhayibheli ImiBhalo Engcwele",
+		"displayTitleRich": "IBhayibheli ImiBhalo Engcwele  (nwt)",
+		"referenceTitleRich": "IBhayibheli ImiBhalo Engcwele",
+		"undatedReferenceTitleRich": "IBhayibheli ImiBhalo Engcwele",
+		"symbol": "nwt",
+		"uniqueEnglishSymbol": "nwt",
+		"uniqueSymbol": "nwt",
+		"undatedSymbol": "nwt",
+		"englishSymbol": "nwt",
+		"language": 268,
+		"hash": "ecb809ef1138cef5352b8f44099de50059b112f0",
+		"timestamp": "2024-04-01T12:12:29Z",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2020,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Bible",
+		"rootSymbol": "nwt",
+		"rootYear": 2013,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "f8fc60c607c6e9b386ff277368db4dc2720268a7:1200:1733",
+				"fileName": "1001061100_ZU_cvr.jpg",
+				"type": "c",
+				"attribute": "r",
+				"width": 1200,
+				"height": 1733
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:120:120",
+				"fileName": "1001061103_univ_sqr-120x120.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 120,
+				"height": 120
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:270:270",
+				"fileName": "1001061103_univ_sqr-270x270.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 270,
+				"height": 270
+			},
+			{
+				"signature": "6418157766875a63da18b8de6a058e432ca4f07a:600:600",
+				"fileName": "1001061103_univ_sqr-600x600.jpg",
+				"type": "t",
+				"attribute": "r",
+				"width": 600,
+				"height": 600
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:360:120",
+				"fileName": "1001061100_univ_pnr-360x120.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 360,
+				"height": 120
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:810:270",
+				"fileName": "1001061100_univ_pnr-810x270.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 810,
+				"height": 270
+			},
+			{
+				"signature": "4a18a684d6a97e7d4febdc43d38b33d2b8c9cbfa:1800:600",
+				"fileName": "1001061100_univ_pnr-1800x600.jpg",
+				"type": "pnr",
+				"attribute": "r",
+				"width": 1800,
+				"height": 600
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:240:120",
+				"fileName": "1001061100_univ_lsr-240x120.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 240,
+				"height": 120
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:560:280",
+				"fileName": "1001061100_univ_lsr-560x280.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 560,
+				"height": 280
+			},
+			{
+				"signature": "03cacb8c19b81a71aa6f5a9bea3a9a560b2f707a:1200:600",
+				"fileName": "1001061100_univ_lsr-1200x600.jpg",
+				"type": "lsr",
+				"attribute": "r",
+				"width": 1200,
+				"height": 600
+			}
+		],
+		"categories": [ 
+				"bi"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "",
+				"undatedTitle": "",
+				"coverTitle": "",
+				"titleRich": "",
+				"undatedTitleRich": "",
+				"coverTitleRich": "",
+				"symbol": "",
+				"undatedSymbol": ""
+		}
+	}
+}
